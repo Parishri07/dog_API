@@ -1,0 +1,17 @@
+body{
+    /* background-color:rgb(212, 164, 236); */
+    background-color: #ad76cd;
+}
+.container{
+    padding-top: 60px;
+    text-align: center;
+    font-size: 30px;
+}
+#myImage{
+    width:500px;
+    height:500px;
+}
+#dogIcon{
+    width:40px;
+    height:40px;
+}
