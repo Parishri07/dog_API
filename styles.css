@@ -14,3 +14,23 @@ body{
     width:40px;
     height:40px;
 }
+@media screen and (max-width: 2000px) {
+    p{
+        font-size: 45px;
+    }
+}
+@media screen and (max-width: 1500px) {
+    p{
+        font-size: 40px;
+    }
+}
+@media screen and (max-width: 1000px) {
+    p{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width: 500px) {
+    p{
+        font-size: 20px;
+    }
+}
