@@ -1,5 +1,5 @@
 body{
-       background-color: #358ae0;
+    background-color: #358ae0;
 }
 .container{
     padding-top: 60px;
@@ -7,8 +7,8 @@ body{
     font-size: 30px;
 }
 #myImage{
-    width:500px;
-    height:500px;
+    width:30vw;
+    height:30vw;
 }
 #dogIcon{
     width:40px;
