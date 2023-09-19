@@ -24,3 +24,7 @@ fetch('https://random.dog/woof.json', {
   .catch((error) => {
     console.error('Fetch error:', error);
   });
+
+  var inputElement = document.getElementById('dogBreed');
+  var dogBreedInput = inputElement.value;
+  console.log(dogBreedInput);
